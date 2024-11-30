@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.Triaje" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary_100</item>
+        <item name="colorPrimaryVariant">@color/primary_200</item>
+        <item name="colorOnPrimary">@color/text_100</item>
+        <item name="colorSecondary">@color/accent_100</item>
+        <item name="colorSecondaryVariant">@color/accent_200</item>
+        <item name="colorOnSecondary">@color/text_100</item>
+
+        <item name="colorOnBackground">@color/text_100</item>
+        <item name="colorBackground">#FFFFFF</item>
+        
+    </style>
+</resources>

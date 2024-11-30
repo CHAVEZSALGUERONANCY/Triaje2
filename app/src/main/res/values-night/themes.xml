@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Triaje" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/primary_100</item>
+        <item name="colorPrimaryVariant">@color/primary_200</item>
+        <item name="colorOnPrimary">@color/text_100</item>
+        <item name="colorSecondary">@color/accent_100</item>
+        <item name="colorSecondaryVariant">@color/accent_200</item>
+        <item name="colorOnSecondary">@color/text_100</item>
+
+        <item name="colorOnBackground">@color/text_100</item>
+        <item name="colorBackground">#FFFFFF</item>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

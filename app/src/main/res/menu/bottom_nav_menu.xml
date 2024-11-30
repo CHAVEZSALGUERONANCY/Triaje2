@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Elemento del menú: Documentos -->
+    <item
+        android:id="@+id/nav_documentos"
+        android:icon="@drawable/ic_documents"
+        android:title="Paciente" />
+
+    <!-- Elemento del menú: Mensajes -->
+    <item
+        android:id="@+id/medical"
+        android:icon="@drawable/medical"
+        android:title="Medicamentos" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_24"
+        android:title="Inicio" />
+    <!-- Elemento del menú: Mensajes -->
+    <item
+        android:id="@+id/nav_ubicacion"
+        android:icon="@drawable/ic_ubicacion"
+        android:title="Ubicacion" />
+
+    <!-- Elemento del menú: Perfil -->
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/ic_profile"
+        android:title="Perfil" />
+
+</menu>

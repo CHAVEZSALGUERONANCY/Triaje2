@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="@color/text_100"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TriajeActivity">
+
+    <!-- Imagen de fondo y logo -->
+
+    <!-- Logo en la parte superior -->
+    <ImageView
+        android:id="@+id/imageViewTop"
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/top_background" />
+
+    <!-- ScrollView para preguntas desplazables -->
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/imageViewTop"
+        app:srcCompat="@drawable/logo_1" />
+
+    <android.widget.ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/text_100"
+        app:layout_constraintTop_toBottomOf="@id/imageViewTop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:fillViewport="true">
+
+        <!-- LinearLayout para las preguntas -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/text_100"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- CardView para las preguntas -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Evaluación de Triage"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                />
+
+
+
+
+            <!-- Contenido dentro del CardView -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/text_100"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nivel 1: Atención Inmediata"
+                    android:background="@color/text_100"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <!-- Lista de Checkboxes para las preguntas -->
+                <CheckBox
+                    android:id="@+id/checkbox1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dificultad respiratoria severa" />
+
+                <CheckBox
+                    android:id="@+id/checkbox2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coloración azul en piel" />
+
+                <CheckBox
+                    android:id="@+id/checkbox3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Frialdad generalizada" />
+
+                <CheckBox
+                    android:id="@+id/checkbox4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Traumatismos severos múltiples" />
+
+                <CheckBox
+                    android:id="@+id/checkbox5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Quemaduras en todo el cuerpo" />
+
+                <CheckBox
+                    android:id="@+id/checkbox6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pérdida de miembro u órgano" />
+
+                <CheckBox
+                    android:id="@+id/checkbox7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hemorragia masiva" />
+
+                <CheckBox
+                    android:id="@+id/checkbox8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trabajo de parte expulsivo" />
+
+                <CheckBox
+                    android:id="@+id/checkbox9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Abuso sexual" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="Nivel 2: Atención: Dentro de los siguientes 30 minutos"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/checkbox10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Alteración aguda de signos vitales" />
+
+                <CheckBox
+                    android:id="@+id/checkbox11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Estado convulsivo" />
+
+                <CheckBox
+                    android:id="@+id/checkbox12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Deficiencia respiratoria moderada" />
+
+                <CheckBox
+                    android:id="@+id/checkbox13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Crisis hipertensiva" />
+
+                <CheckBox
+                    android:id="@+id/checkbox14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Diabetes descompensada" />
+
+                <CheckBox
+                    android:id="@+id/checkbox15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dolor torácico" />
+
+                <CheckBox
+                    android:id="@+id/checkbox16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trauma severo" />
+
+                <CheckBox
+                    android:id="@+id/checkbox17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Quemadura de III grado" />
+
+                <CheckBox
+                    android:id="@+id/checkbox18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Riesgo de pérdida de miembro u órgano" />
+
+                <CheckBox
+                    android:id="@+id/checkbox19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fractura" />
+
+                <CheckBox
+                    android:id="@+id/checkbox20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hemorragia digestiva" />
+
+                <CheckBox
+                    android:id="@+id/checkbox21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sangrado vaginal en embarazadas" />
+
+                <CheckBox
+                    android:id="@+id/checkbox22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trabajo de parto" />
+
+                <CheckBox
+                    android:id="@+id/checkbox23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Abuso sexual antiguo" />
+
+                <CheckBox
+                    android:id="@+id/checkbox24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Agitación psicomotora" />
+
+                <CheckBox
+                    android:id="@+id/checkbox25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ingestión de sustancias tóxicas o envenenamiento" />
+
+                <CheckBox
+                    android:id="@+id/checkbox26"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dolor agudo" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="Nivel 3: Atención: Los siguientes 120 minutos"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/checkbox27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Fiebre mayor 38.5°C" />
+
+                <CheckBox
+                    android:id="@+id/checkbox28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Vértigo severo" />
+
+                <CheckBox
+                    android:id="@+id/checkbox29"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dificultad respiratoria leve" />
+
+                <CheckBox
+                    android:id="@+id/checkbox30"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Vómito y diarrea con deshidratación" />
+
+                <CheckBox
+                    android:id="@+id/checkbox31"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Síntomas asociadas o diálisis" />
+
+                <CheckBox
+                    android:id="@+id/checkbox32"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Dolor moderado de menos de 24 horas" />
+
+                <CheckBox
+                    android:id="@+id/checkbox33"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trauma moderado" />
+
+                <CheckBox
+                    android:id="@+id/checkbox34"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Burnadura I o II grado" />
+
+                <CheckBox
+                    android:id="@+id/checkbox35"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sangrado moderado" />
+
+                <CheckBox
+                    android:id="@+id/checkbox36"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Reacción alérgica con brote generalizado" />
+
+                <CheckBox
+                    android:id="@+id/checkbox37"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Todo Evento en Salud Pública que consulte" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="Nivel 4: Atención: 180 minutos"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/checkbox38"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Fiebre mayor 38.5°C" />
+
+                <CheckBox
+                    android:id="@+id/checkbox39"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tos y congestión" />
+
+                <CheckBox
+                    android:id="@+id/checkbox40"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Faringitis o amigdalitis" />
+
+                <CheckBox
+                    android:id="@+id/checkbox41"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Vómito y diarrea sin deshidratación" />
+
+                <CheckBox
+                    android:id="@+id/checkbox42"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dolor leve" />
+
+                <CheckBox
+                    android:id="@+id/checkbox43"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dolor moderado de más de 24 horas" />
+
+                <CheckBox
+                    android:id="@+id/checkbox44"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trauma leve" />
+
+                <CheckBox
+                    android:id="@+id/checkbox45"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Signos de infección local" />
+
+                <CheckBox
+                    android:id="@+id/checkbox46"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Ardor al orinar" />
+
+                <CheckBox
+                    android:id="@+id/checkbox47"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Enfermedad venérea aguda" />
+
+                <CheckBox
+                    android:id="@+id/checkbox48"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ansiedad y depresión" />
+
+                <CheckBox
+                    android:id="@+id/checkbox49"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cólico menstrual" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="Nivel 5: Atención: Por Consulta Externa"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+
+                <CheckBox
+                    android:id="@+id/checkbox50"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Síntomas agudos que no comprometan el estado general" />
+
+                <CheckBox
+                    android:id="@+id/checkbox51"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Dolor de cabeza crónico" />
+
+                <CheckBox
+                    android:id="@+id/checkbox52"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tos crónica" />
+
+                <CheckBox
+                    android:id="@+id/checkbox53"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inapetencia" />
+
+                <CheckBox
+                    android:id="@+id/checkbox54"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Diarrea crónica" />
+
+                <CheckBox
+                    android:id="@+id/checkbox55"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Estreñimiento" />
+
+                <CheckBox
+                    android:id="@+id/checkbox56"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dolor abdominal crónico" />
+
+                <CheckBox
+                    android:id="@+id/checkbox57"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dolor postraumático leve" />
+
+                <CheckBox
+                    android:id="@+id/checkbox58"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dermatitis" />
+
+                <CheckBox
+                    android:id="@+id/checkbox59"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Estrés emocional" />
+
+                <CheckBox
+                    android:id="@+id/checkbox60"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Enfermedades crónicas" />
+
+                <CheckBox
+                    android:id="@+id/checkbox61"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Formulación de medicamentos" />
+
+                <CheckBox
+                    android:id="@+id/checkbox62"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:text=" Lectura de exámenes" />
+                <!-- Botón de Enviar -->
+                <Button
+                    android:id="@+id/btnSubmit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="80dp"
+                    android:background="@color/blue"
+                    android:text="Enviar Respuestas"
+
+
+                    android:textColor="@android:color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </android.widget.ScrollView>
+
+
+
+    <!-- Menú inferior -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:menu="@menu/bottom_nav_menu"
+        app:itemIconTint="@color/gray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@color/text_100"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

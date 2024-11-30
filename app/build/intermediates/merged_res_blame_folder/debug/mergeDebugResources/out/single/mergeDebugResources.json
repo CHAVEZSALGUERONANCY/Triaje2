@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_logo_negro_2.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\logo_negro_2.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-ldpi_bottom_white.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-ldpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_item_hospital.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\item_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-ldpi_top_background.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-ldpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_home_24.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-mdpi_girl.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-mdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xhdpi_girl.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_baseline_local_hospital_24.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\baseline_local_hospital_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-ldpi_girl.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-ldpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-mdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-mdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_paciente_details.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_paciente_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_item_paciente.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\item_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_triaje.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_triaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_baseline_delete_outline_24.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_ubicacion.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_ubicacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_accidente.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_accidente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_logo_negro_1.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\logo_negro_1.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_paciente_placeholder.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_paciente_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxxhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-hdpi_girl.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_paciente.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_baseline_remove_red_eye_24.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_hospital.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_documents.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_documents.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-hdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-hdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_messages.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-hdpi_top_background.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-hdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_add_paciente.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_add_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_medicamento.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxxhdpi_girl.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxhdpi_girl.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-mdpi_top_background.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-mdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_custom_edittext_background.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\custom_edittext_background.xml"
+    },
+    {
+        "merged": "com.example.triaje.app-debug-57:/layout_activity_add_paciente.xml.flat",
+        "source": "com.example.triaje.app-main-59:/layout/activity_add_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xhdpi_top_background.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\navigation_nav_graph3.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\navigation\\nav_graph3.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_list_hospital.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_list_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_logo_1.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\logo_1.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_medical.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\medical.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_hospital.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable_ic_ubicacion.xml.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable\\ic_ubicacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-debug-57:\\drawable-xxxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\drawable-xxxhdpi\\top_background.png"
+    }
+]

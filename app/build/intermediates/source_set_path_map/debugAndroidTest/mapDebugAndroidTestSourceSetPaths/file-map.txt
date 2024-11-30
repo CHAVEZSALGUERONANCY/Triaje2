@@ -1,0 +1,6 @@
+com.example.triaje.test.app-annotation-experimental-1.4.0-0 C:\Users\al222\.gradle\caches\transforms-4\4877be2adbf972e48d6753c712f3c070\transformed\annotation-experimental-1.4.0\res
+com.example.triaje.test.app-core-1.5.0-1 C:\Users\al222\.gradle\caches\transforms-4\6a0e6dc6472c9f4efd366c0e45c309d0\transformed\core-1.5.0\res
+com.example.triaje.test.app-androidTest-2 D:\Users\al222\AndroidStudioProjects\Triaje2\app\build\generated\res\resValues\androidTest\debug
+com.example.triaje.test.app-mergeDebugAndroidTestResources-3 D:\Users\al222\AndroidStudioProjects\Triaje2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.triaje.test.app-mergeDebugAndroidTestResources-4 D:\Users\al222\AndroidStudioProjects\Triaje2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.triaje.test.app-debugAndroidTest-5 D:\Users\al222\AndroidStudioProjects\Triaje2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

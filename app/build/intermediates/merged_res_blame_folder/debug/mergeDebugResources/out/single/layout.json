@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_create_account.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_medicamento.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_list_hospital.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_list_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_perfil.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\item_hospital.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\item_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_hospital.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_paciente_details.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_paciente_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_ubicacion.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_ubicacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_add_paciente.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_add_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\item_paciente.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\item_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_paciente.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-mergeDebugResources-56:\\layout\\activity_triaje.xml",
+        "source": "C:\\Users\\al222\\.gradle\\daemon\\8.7\\com.example.triaje.app-main-59:\\layout\\activity_triaje.xml"
+    },
+    {
+        "merged": "com.example.triaje.app-mergeDebugResources-56:/layout/activity_add_paciente.xml",
+        "source": "com.example.triaje.app-main-59:/layout/activity_add_paciente.xml"
+    }
+]

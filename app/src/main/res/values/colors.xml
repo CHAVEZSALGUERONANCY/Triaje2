@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores Primarios -->
+    <color name="primary_100">#1F3A5F</color>
+    <color name="primary_200">#4d648d</color>
+    <color name="primary_300">#acc2ef</color>
+
+    <!-- Colores de Acento -->
+    <color name="accent_100">#3D5A80</color>
+    <color name="accent_200">#cee8ff</color>
+
+    <!-- Colores de Texto -->
+    <color name="text_100">#FFFFFF</color>
+    <color name="text_200">#e0e0e0</color>
+
+    <!-- Colores de Fondo -->
+    <color name="bg_100">#0F1C2E</color>
+    <color name="amarillo">#FFD700</color>
+    <color name="bg_200">#1f2b3e</color>
+    <color name="bg_300">#374357</color>
+    <color name="colorBackground">#070707</color>
+
+        <color name="black">#000000</color> <!-- Color negro -->
+        <color name="gray">#808080</color>  <!-- Color gris -->
+        <color name="blue">#0000FF</color>  <!-- Color azul -->
+
+    <color name="rojo">#E00A24</color> <!-- Normal -->
+    <color name="verde">#68BD6B</color> <!-- Presionado -->
+
+
+
+</resources>
